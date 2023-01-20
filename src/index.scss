@@ -29,7 +29,7 @@ body {
         font-size: 25px;
         padding: 10px 50px;
         cursor: pointer;
-        border-radius: 25px;
+        border-radius: 10px;
         margin: auto;
         text-align: center;
         transition: all .5s ease;
@@ -53,8 +53,7 @@ body {
         padding: 50px;
         font-size: 50px;
         width: 200px;
-
-        border-radius: 25px;
+        border-radius: 10px;
       }
 
       .minus {
@@ -62,7 +61,6 @@ body {
         box-shadow: 10px 20px 35px rgba(255, 0, 0, 0.5);
 
         &:hover {
-
           top: -15px;
         }
         &:active{
